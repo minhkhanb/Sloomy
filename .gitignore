@@ -1,0 +1,6 @@
+_tmpres/
+src/_android/build/
+src/_win/Debug/
+src/_win/.vs/
+src/_android/obj/
+src/_android/.gradle/

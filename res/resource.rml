@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManager>
+  <FileInfo Version="1.1" />
+  <GFX>
+    <SupportVersions>
+      <Version Name="640_960" Width="640" Height="960" />
+      <Version Name="750_1334" Width="750" Height="1334" MainVersion="1" />
+    </SupportVersions>
+    <Packages>
+      <Package Name="font" />
+      <Package Name="character" />
+      <Package Name="hud" />
+      <Package Name="effect" />
+    </Packages>
+    <Items>
+      <Item Name="character_lily" />
+      <Item Name="character_lotus" />
+      <Item Name="character_orchild" />
+      <Item Name="character_rose" />
+      <Item Name="character_sunflower" />
+      <Item Name="character_violet" />
+      <Item Name="character_lily_02" />
+      <Item Name="character_lotus_02" />
+      <Item Name="character_orchild_02" />
+      <Item Name="character_rose_02" />
+      <Item Name="character_sunflower_02" />
+      <Item Name="character_violet_02" />
+      <Item Name="character_lily_03" />
+      <Item Name="character_lotus_03" />
+      <Item Name="character_orchild_03" />
+      <Item Name="character_rose_03" />
+      <Item Name="character_sunflower_03" />
+      <Item Name="character_violet_03" />
+      <Item Name="character_farmer_01" />
+      <Item Name="font_level" />
+      <Item Name="font_point_01" />
+      <Item Name="font_score_01" />
+      <Item Name="font_loading_01" />
+      <Item Name="font_facebookscore_01" />
+      <Item Name="font_name_facebook_01" />
+      <Item Name="font_power_up_01" />
+      <Item Name="font_time_gift_01" />
+      <Item Name="font_watch_video_01" />
+      <Item Name="font_power_up_02" />
+      <Item Name="font_info_powerupl" />
+      <Item Name="font_point_ingame_01" />
+      <Item Name="font_bestscore_01" />
+      <Item Name="font_yourscore_01" />
+      <Item Name="font_score_ingame_01" />
+      <Item Name="font_congratulation_01" />
+      <Item Name="font_score_facebook_01" />
+      <Item Name="font_pop_up_01" />
+      <Item Name="font_combo_01" />
+      <Item Name="font_fever_01" />
+      <Item Name="font_timeline_01" />
+      <Item Name="font_countdown_01" />
+      <Item Name="font_multiply_01" />
+      <Item Name="font_advert" />
+      <Item Name="hud_background_01" />
+      <Item Name="hud_background_02" />
+      <Item Name="hud_wearther_01" />
+      <Item Name="hud_pause_01" />
+      <Item Name="hud_result_01" />
+      <Item Name="hud_loading_01" />
+      <Item Name="hud_powerup_01" />
+      <Item Name="hud_congratulation_01" />
+      <Item Name="hud_share_facebook_01" />
+      <Item Name="hud_slash_screen_01" />
+      <Item Name="hud_loading_02" />
+      <Item Name="hud_open_gift_01" />
+      <Item Name="hud_great_score_01" />
+      <Item Name="hud_butterfly_01" />
+      <Item Name="hud_fever_mode_01" />
+      <Item Name="effect_light_01" />
+      <Item Name="effect_combo_01" />
+      <Item Name="effect_explosion_fever_mode_01" />
+      <Item Name="effect_power_blast_01" />
+      <Item Name="effect_explosion_01" />
+      <Item Name="pine_advert" />
+    </Items>
+    <VersionItems>
+      <VersionItem Version="640_960" />
+      <VersionItem Version="750_1334">
+        <Item Item="font_bestscore_01" Path="font_bestscore_01_i6.bpine" Package="font" />
+        <Item Item="hud_background_01" Path="hud_background_01_i6.bpine" Package="hud" />
+        <Item Item="hud_background_02" Path="hud_background_02_i6.bpine" Package="hud" />
+        <Item Item="character_lily" Path="character_lily_i6.bpine" Package="character" />
+        <Item Item="character_lotus" Path="character_lotus_i6.bpine" Package="character" />
+        <Item Item="character_orchild" Path="character_orchild_i6.bpine" Package="character" />
+        <Item Item="character_rose" Path="character_rose_i6.bpine" Package="character" />
+        <Item Item="character_sunflower" Path="character_sunflower_i6.bpine" Package="character" />
+        <Item Item="character_violet" Path="character_violet_i6.bpine" Package="character" />
+        <Item Item="character_lily_02" Path="character_lily_02_i6.bpine" Package="character" />
+        <Item Item="character_lily_03" Path="character_lily_03_i6.bpine" Package="character" />
+        <Item Item="character_lotus_02" Path="character_lotus_02_i6.bpine" Package="character" />
+        <Item Item="character_lotus_03" Path="character_lotus_03_i6.bpine" Package="character" />
+        <Item Item="character_orchild_02" Path="character_orchild_02_i6.bpine" Package="character" />
+        <Item Item="character_orchild_03" Path="character_orchild_03_i6.bpine" Package="character" />
+        <Item Item="character_rose_02" Path="character_rose_02_i6.bpine" Package="character" />
+        <Item Item="character_rose_03" Path="character_rose_03_i6.bpine" Package="character" />
+        <Item Item="character_sunflower_02" Path="character_sunflower_02_i6.bpine" Package="character" />
+        <Item Item="character_sunflower_03" Path="character_sunflower_03_i6.bpine" Package="character" />
+        <Item Item="character_violet_02" Path="character_violet_02_i6.bpine" Package="character" />
+        <Item Item="character_violet_03" Path="character_violet_03_i6.bpine" Package="character" />
+        <Item Item="hud_wearther_01" Path="hud_wearther_01_i6.bpine" Package="hud" />
+        <Item Item="effect_explosion_01" Path="effect_explosion_retype_01_i6.bpine" Package="effect" />
+        <Item Item="hud_pause_01" Path="hud_pause_01_i6.bpine" Package="hud" />
+        <Item Item="hud_result_01" Path="hud_result_01_i6.bpine" Package="hud" />
+        <Item Item="font_level" Path="font_level_i6.bpine" Package="font" />
+        <Item Item="font_point_01" Path="font_point_01_i6.bpine" Package="font" />
+        <Item Item="font_score_01" Path="font_score_01_i6.bpine" Package="font" />
+        <Item Item="font_point_ingame_01" Path="font_point_ingame_01_i6.bpine" Package="font" />
+        <Item Item="hud_loading_01" Path="hud_loading_01_i6.bpine" Package="hud" />
+        <Item Item="font_loading_01" Path="font_loading_01_i6.bpine" Package="font" />
+        <Item Item="hud_powerup_01" Path="hud_powerup_01_i6.bpine" Package="hud" />
+        <Item Item="font_facebookscore_01" Path="font_facebookscore_01_i6.bpine" Package="font" />
+        <Item Item="font_name_facebook_01" Path="font_name_facebook_01_i6.bpine" Package="font" />
+        <Item Item="font_power_up_01" Path="font_power_up_01_i6.bpine" Package="font" />
+        <Item Item="font_time_gift_01" Path="font_time_gift_01_i6.bpine" Package="font" />
+        <Item Item="font_watch_video_01" Path="font_watch_video_01_i6.bpine" Package="font" />
+        <Item Item="font_yourscore_01" Path="font_yourscore_01_i6.bpine" Package="font" />
+        <Item Item="hud_congratulation_01" Path="hud_congratulation_01_i6.bpine" Package="hud" />
+        <Item Item="hud_great_score_01" Path="hud_great_score_01_i6.bpine" Package="hud" />
+        <Item Item="font_score_ingame_01" Path="font_score_ingame_01_i6.bpine" Package="font" />
+        <Item Item="font_info_powerupl" Path="font_info_powerupl_i6.bpine" Package="font" />
+        <Item Item="font_congratulation_01" Path="font_congratulation_01_i6.bpine" Package="font" />
+        <Item Item="font_score_facebook_01" Path="font_score_facebook_01_i6.bpine" Package="font" />
+        <Item Item="hud_share_facebook_01" Path="hud_share_facebook_01_i6.bpine" Package="hud" />
+        <Item Item="hud_slash_screen_01" Path="hud_slash_screen_01_i6.bpine" Package="hud" />
+        <Item Item="font_advert" Path="font_advert.bpine" Package="font" />
+        <Item Item="pine_advert" Path="pine_advert.bpine" Package="effect" />
+        <Item Item="hud_loading_02" Path="hud_loading_02_i6.bpine" Package="hud" />
+        <Item Item="font_pop_up_01" Path="font_pop_up_01_i6.bpine" Package="font" />
+        <Item Item="font_power_up_02" Path="font_power_up_02_i6.bpine" Package="font" />
+        <Item Item="hud_open_gift_01" Path="hud_open_gift_01_i6.bpine" Package="hud" />
+        <Item Item="effect_light_01" Path="effect_light_01_i6.bpine" Package="effect" />
+        <Item Item="hud_butterfly_01" Path="hud_butterfly_01_i6.bpine" Package="hud" />
+        <Item Item="font_combo_01" Path="font_combo_01_i6.bpine" Package="font" />
+        <Item Item="effect_combo_01" Path="effect_combo_01_i6.bpine" Package="effect" />
+        <Item Item="hud_fever_mode_01" Path="hud_fever_mode_01_i6.bpine" Package="hud" />
+        <Item Item="character_farmer_01" Path="character_farmer_01_i6.bpine" Package="character" />
+        <Item Item="font_fever_01" Path="font_fever_01_i6.bpine" Package="font" />
+        <Item Item="font_timeline_01" Path="font_timeline_01_i6.bpine" Package="font" />
+        <Item Item="font_multiply_01" Path="font_multiply_01_i6.bpine" Package="font" />
+        <Item Item="effect_explosion_fever_mode_01" Path="effect_explosion_fever_mode_01_i6.bpine" Package="effect" />
+        <Item Item="effect_power_blast_01" Path="effect_power_blast_01_i6.bpine" Package="effect" />
+        <Item Item="font_countdown_01" Path="font_countdown_01_i6.bpine" Package="font" />
+      </VersionItem>
+    </VersionItems>
+  </GFX>
+  <Sounds>
+    <Sound Name="bgm_ingame" Path="bgm_ingame.mp3" />
+    <Sound Name="bgm_mainmenu_result" Path="bgm_mainmenu_result.mp3" />
+    <Sound Name="bgm_ingame_fever" Path="bgm_ingame_fever.mp3" />
+    <Sound Name="sfx_button" Path="sfx_button.wav" />
+    <Sound Name="sfx_enter_fevermode" Path="sfx_enter_fevermode.wav" />
+    <Sound Name="sfx_score_1" Path="sfx_score_1.wav" />
+    <Sound Name="sfx_score_2" Path="sfx_score_2.wav" />
+    <Sound Name="sfx_score_3" Path="sfx_score_3.wav" />
+    <Sound Name="sfx_score_4" Path="sfx_score_4.wav" />
+    <Sound Name="sfx_score_5" Path="sfx_score_5.wav" />
+    <Sound Name="sfx_score_6" Path="sfx_score_6.wav" />
+    <Sound Name="sfx_score_7" Path="sfx_score_7.wav" />
+    <Sound Name="sfx_score_8" Path="sfx_score_8.wav" />
+    <Sound Name="sfx_score_9" Path="sfx_score_9.wav" />
+    <Sound Name="sfx_score_10" Path="sfx_score_10.wav" />
+    <Sound Name="sfx_score_11" Path="sfx_score_11.wav" />
+    <Sound Name="sfx_score_12" Path="sfx_score_12.wav" />
+    <Sound Name="sfx_score_13" Path="sfx_score_13.wav" />
+    <Sound Name="sfx_score_14" Path="sfx_score_14.wav" />
+    <Sound Name="sfx_score_15" Path="sfx_score_15.wav" />
+    <Sound Name="sfx_hurry_up" Path="sfx_hurry_up.wav" />
+    <Sound Name="sfx_result" Path="sfx_result.wav" />
+    <Sound Name="sfx_result_new_highscore" Path="sfx_result_new_highscore.wav" />
+    <Sound Name="sfx_score_infever" Path="sfx_score_infever.wav" />
+    <Sound Name="sfx_score_multiplier_up" Path="sfx_score_multiplier_up.wav" />
+    <Sound Name="sfx_time_couting" Path="sfx_time_couting.wav" />
+    <Sound Name="sfx_timeout" Path="sfx_timeout.wav" />
+    <Sound Name="sfx_super_blash" Path="sfx_super_blash.wav" />
+    <Sound Name="sfx_missed" Path="sfx_missed.wav" />
+    <Sound Name="sfx_beating_friend" Path="sfx_beating_friend.wav" />
+  </Sounds>
+  <ProjectSettings>
+    <ResourceManifestHeader><![CDATA[./../src/game/Define]]></ResourceManifestHeader>
+    <ResourceManifestCPP><![CDATA[./../src/game/GamePlay]]></ResourceManifestCPP>
+  </ProjectSettings>
+  <Targets>
+    <Target Name="Simulator" AddNoise="1" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/res]]></OutputDirectory>
+      <Versions>
+        <Version Name="640_960" />
+        <Version Name="750_1334" />
+      </Versions>
+    </Target>
+    <Target Name="IOS" AddNoise="1" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/Res_IOS]]></OutputDirectory>
+      <Versions>
+        <Version Name="640_960" />
+        <Version Name="750_1334" />
+      </Versions>
+    </Target>
+    <Target Name="Android" AddNoise="1" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/Res_ANDROID]]></OutputDirectory>
+      <Versions>
+        <Version Name="750_1334" />
+      </Versions>
+    </Target>
+  </Targets>
+</ResourceManager>
